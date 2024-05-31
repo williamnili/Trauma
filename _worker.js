@@ -14,7 +14,7 @@ let addresses = [
 	'go.inmobi.com:2096#☕',
 	'creativecommons.org:2087#☕',
 	'horsefucker.pages.dev:8443#☕',
-	'holyfuck.xcdi.workers.dev:2083#꓃Tr -10',
+	'holyfuck.xcdi.workers.dev:2083#☕',
 ];
 
 let sub = '';
