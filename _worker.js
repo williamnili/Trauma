@@ -1,7 +1,7 @@
 // src/worker.js
 import { connect } from "cloudflare:sockets";
 let password = 'auto';
-let proxyIP = ['141.144.232.159'];// Or use 'usa.revil.link'
+let proxyIP = ['141.144.232.159'];
 
 let addresses = [
 	// everything you want, When sub is empty, the local preferred domain name/preferred IP is enabled. If the port number is not provided, the default TLS port is 443, and the alias after the # sign is a remark
